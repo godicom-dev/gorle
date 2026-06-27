@@ -1,2 +1,2 @@
-*.test
-/coverage.out
+# Conformance test data (fetched via scripts/fetch-testdata.sh)
+testdata/dcm/
